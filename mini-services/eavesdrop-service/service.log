@@ -1,0 +1,11 @@
+$ bun --hot index.ts
+Eavesdrop WebSocket server running on port 3004
+Client connected: LS8oaZMSEGptErGoAAAB
+Client connected: ukTsvBEB3UYbBSxvAAAD
+Client disconnected: LS8oaZMSEGptErGoAAAB
+Client disconnected: ukTsvBEB3UYbBSxvAAAD
+Client connected: j43SG4QC_onzdPi7AAAF
+Client connected: TJdh9_RLajcSpGDBAAAH
+Computer 2: haloooo
+Client connected: cj8VZ4OJ-czNpP2MAAAJ
+Computer 1: tesss
